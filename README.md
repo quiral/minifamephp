@@ -1,4 +1,4 @@
-minifamephp
+MiniFramework PHP
 ===========
 
 Pequeño marco de desarrollo para sitios web basados en PHP
